@@ -18,7 +18,7 @@ This project has 3 purposes.
 
 ## Setting up a Data Science Environment
 
-Clone this repository (do not fork) and rename it to something else as your own project repository. Or preferably, do not bother with any of this setup and just used [google colab](https://colab.research.google.com/). 
+Clone this repository (do not fork) and rename it to something else as your own project repository. Or preferably, do not bother with any of this setup and just use [google colab](https://colab.research.google.com/). 
 
 I am using python3.8.13 in macOS Monterey Version 12.0.1, but these setup instructions should work as is or with minor edits on most python3 and linux combinations. If you dont have python 3.8 there are many ways to install it, I used [homebrew](https://formulae.brew.sh/formula/python@3.8) and followed the instructions at the end of the download. You have to restart your terminal for the changes to take effect. 
 
