@@ -8,7 +8,7 @@ Read this Readme from top to bottom
 
 This project has 3 purposes.
 
-1. Motivation: To give you a feeling for the kind of work you will be doing with us and help you decde if this role is right for you. The best way to know if this work is right for you is if you find this project **fun**. 
+1. Motivation: To give you a feeling for the kind of work you will be doing with us and help you decide if this role is right for you. The best way to know if this work is right for you is if you find this project **fun**. 
 
 <img src="https://www.care.coach/uploads/9/8/5/0/9850803/published/final-care-coach-0970.jpg">
 
