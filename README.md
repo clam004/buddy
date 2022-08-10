@@ -8,7 +8,7 @@ Read this Readme from top to bottom
 
 This project has 3 purposes.
 
-1. Motivation: To give you a feeling for the kind of work you will be doing with us and help you decide if this role is right for you. The best way to know if this work is right for you is if you find this project **fun**. 
+1. Motivation: To give you a feeling for the kind of work you will be doing with us and help you decide if this role is right for you. The best way to know if this work is right for you is if you find this project **fun**. Candidates work on this take home project entirely of their own accord. This project is meant to given an alternative route to candidates for demonstrating their style of building projects since it is difficult to appreciate a candidates sense of the entire machine learning pipeline: data procesing, training, validation, deployment, etc. using only short independant questions. Also some projects cannot be shared due to IP reasons. The ideal project to guide us through is one that is spans the ML pipeline, interconnects many modules, is professionally written, the candidate is the main contributor of and the candidate authentically enjoyed working on.
 
 <img src="https://www.care.coach/uploads/9/8/5/0/9850803/published/final-care-coach-0970.jpg">
 
