@@ -52,7 +52,7 @@ if you are doing this locally you can just
 
 ## How to Submit this Project
 
-Please DO NOT send the code as an attachment in email, instead, submit the URL link for your project github repository or colab, with graphs plotted, to have your technical interview scheduled.
+Please submit the URL link for your project github repository or colab, with graphs plotted, to your Criteria profile at least 24 hours prior to your scheduled technical interview.
 
 The technical interview format is a pretend teaching session where we pretend the interviewer is a student who does not have the same understanding of NLP and transformers that you do now after attempting the project. Your goal is to teach them to understand your code (your repo or colab) and design decisions. As mentioned above, the goal is to evaluate your ability to explain to another engineer what you have done, such that they have as much understanding of the code as you do.
 
